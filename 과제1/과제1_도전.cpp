@@ -58,10 +58,9 @@ int main() {
 		cout << endl;
 	}
 	else {
-		cout << "잘못된 숫자 입력";
-		main();
+		cout << "잘못된 숫자 입력 프로그램을 종료합니다.";
 	}
-	
+
 
 	delete[] num;
 

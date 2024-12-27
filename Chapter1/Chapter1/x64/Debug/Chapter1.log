@@ -1,3 +1,0 @@
-﻿  solution1-1.cpp
-solution1-1.obj : error LNK2005: main이(가) solution1-2.obj에 이미 정의되어 있습니다.
-C:\Users\rhrjs\source\repos\Chapter1\x64\Debug\Chapter1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
